@@ -1,0 +1,9 @@
+[submodule "doorbell-board"]
+	path = doorbell-board
+	url = https://github.com/mrazimi99/doorbell-board.git
+[submodule "doorbell-server"]
+	path = doorbell-server
+	url = https://github.com/mrazimi99/doorbell-server.git
+[submodule "doorbell-application"]
+	path = doorbell-application
+	url = https://github.com/mrazimi99/doorbell-application.git
