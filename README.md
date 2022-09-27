@@ -1,1 +1,3 @@
-# doorbell
+It's a simulated doorbell that takes a photo with the camera and sends it to the server by WiFi module or directly to the android application using Bluetooth, based on the location of the mobile phone. It receives the location of the mobile phone from the server; if it is inside the visible range of the Bluetooth sensor, it sends the picture directly to the phone, but if the phone is far from the doorbell, it sends the picture to the server and the phone will receive it from the server.
+
+In this way, we optimize the communication between the phone and the doorbell.
